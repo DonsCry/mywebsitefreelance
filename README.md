@@ -63,3 +63,12 @@ Fokus utama:
 ```bash
 git clone https://github.com/DonsCry/mywebsitefreelance.git
 cd REPO-NAME
+
+
+📩 Kontak Jasa
+
+WhatsApp:81936514430
+
+Telegram: @NardDesignWebAppAndEtcFreelance
+
+Email:revalsaputra350@gmail.com
