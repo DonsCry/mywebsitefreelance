@@ -59,6 +59,10 @@ Fokus utama:
 
 ---
 
+⚠️ License
+
+Konten dilarang dijual ulang atau dikomersialkan ulang tanpa izin.
+
 ## 📦 Cara Menjalankan Lokal
 ```bash
 git clone https://github.com/DonsCry/mywebsitefreelance.git
