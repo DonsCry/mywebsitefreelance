@@ -61,5 +61,5 @@ Fokus utama:
 
 ## 📦 Cara Menjalankan Lokal
 ```bash
-git clone https://github.com/USERNAME/REPO-NAME.git
+git clone https://github.com/DonsCry/mywebsitefreelance.git
 cd REPO-NAME
